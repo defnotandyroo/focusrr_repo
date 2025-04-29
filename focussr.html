@@ -202,11 +202,7 @@
             
             // Default tasks to show as examples
             function loadTasks() {
-                const defaultTasks = [
-                    { id: '1', text: 'add your tasks here', completed: false },
-                    { id: '2', text: 'check completed tasks', completed: true },
-                    { id: '3', text: 'set a timer to focus', completed: false }
-                ];
+
                 
                 defaultTasks.forEach(task => {
                     const taskItem = createTaskElement(task.id, task.text, task.completed);
