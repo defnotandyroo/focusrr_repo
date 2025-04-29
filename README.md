@@ -1,5 +1,7 @@
 minimalistic productivity app.
 
-contains all of the features you'd ever need, which is to say, not many.
+contains all of the features you need, and nothing you don't.
 
-download the html file, not the other one lol
+download the one that says download lol
+
+
